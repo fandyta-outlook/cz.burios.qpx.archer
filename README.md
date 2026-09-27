@@ -4,9 +4,9 @@ Ukládání souborů do vlastního uložiště (FileStore) na serveru, organizov
 
 Postavený na:
 - Java 17+
+- Tomcat 11+.
 - Spring 6+ MVC
 - JSP
 - JDBC
-- Tomcat 11+.
 
 Jako front-end je použitý oQPX, vlastní javasript (jQuery) OOP UI kniovna.
